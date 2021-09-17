@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @hasAndre
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning nodejs, rectjs, rect native, javascript, etc
